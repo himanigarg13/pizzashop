@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pizzashop/static/css/main.c71e805e.css",
+    "main.js": "/pizzashop/static/js/main.667e06c9.js",
+    "static/media/remixicon.svg?t=1590207869815": "/pizzashop/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/product_2.1.png": "/pizzashop/static/media/product_2.1.628e1158966060e00dea.png",
+    "static/media/res-logo.png": "/pizzashop/static/media/res-logo.12d898e9925d9a93b4b6.png",
+    "static/media/product_2.2-removebg-preview.png": "/pizzashop/static/media/product_2.2-removebg-preview.03d0d49f70fbeb47426a.png",
+    "static/media/product_4.1-removebg-preview.png": "/pizzashop/static/media/product_4.1-removebg-preview.943322ddf97e0f57ca25.png",
+    "static/media/product_3.1-removebg-preview.png": "/pizzashop/static/media/product_3.1-removebg-preview.dee1bc0f011092d855b5.png",
+    "static/media/product_3.2-removebg-preview.png": "/pizzashop/static/media/product_3.2-removebg-preview.ef8b9b2359840ec24b3a.png",
+    "static/media/product_4.2-removebg-preview.png": "/pizzashop/static/media/product_4.2-removebg-preview.a988446430567d095032.png",
+    "static/media/product_2.3-removebg-preview.png": "/pizzashop/static/media/product_2.3-removebg-preview.166115f063fdf5373f4a.png",
+    "static/media/product_3.3-removebg-preview.png": "/pizzashop/static/media/product_3.3-removebg-preview.547247a957ae053455fe.png",
+    "static/media/product_4.3.png": "/pizzashop/static/media/product_4.3.2df1cebb0cf62346965c.png",
+    "static/media/remixicon.eot?t=1590207869815": "/pizzashop/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/pizzashop/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/pizzashop/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/pizzashop/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/delivery-guy.png": "/pizzashop/static/media/delivery-guy.65ece16e16cf45ae0846.png",
+    "index.html": "/pizzashop/index.html",
+    "main.c71e805e.css.map": "/pizzashop/static/css/main.c71e805e.css.map",
+    "main.667e06c9.js.map": "/pizzashop/static/js/main.667e06c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c71e805e.css",
+    "static/js/main.667e06c9.js"
+  ]
+}
